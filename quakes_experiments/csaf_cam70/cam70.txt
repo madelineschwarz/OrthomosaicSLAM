@@ -1,0 +1,3 @@
+Images from camera 70
+
+python3 main.py -i csaf_cam70 -o images
