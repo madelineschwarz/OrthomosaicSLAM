@@ -1,11 +1,12 @@
 # OrthomosaicSLAM
-
+### Forked from: TextZip OrthomosaicSLAM: https://github.com/TextZip/OrthomosaicSLAM
+ 
 Creating mosaic images from QUAKES-I imagery 
 
 QUAKES-I 8 camera array (nadir port of aircraft)
 ![image](https://github.com/madelineschwarz/OrthomosaicSLAM/assets/60195170/3c62446c-3df5-4b8e-afc8-e3d30861ec2a)
-
- ## Forked from: TextZip OrthomosaicSLAM: https://github.com/TextZip/OrthomosaicSLAM
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Original:
 To carry out drone-based aerial surveying for generating orthomosaic maps on the fly, this project explores the image processing stack required to achieve the same using the most economical hardware and software footprint. The project explores corner and blob-based feature extraction techniques followed by brute force and KNN based feature matching methods which are later used to generate a homography matrix for stitching images that are passed through a cascaded image mixer to generate orthomosaic maps of a given dataset.
 
 Explanation and documentation: https://textzip.github.io/posts/Orthomosaic-SLAM/
