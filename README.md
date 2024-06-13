@@ -3,7 +3,7 @@
  
 Creating mosaic images from QUAKES-I imagery
 
-Successfully mosaics images from the same camera
+Successfully mosaics images from the same camera, but mosaics lose georeferencing metadata
 
 QUAKES-I 8 camera array (nadir port of aircraft)
 ![image](https://github.com/madelineschwarz/OrthomosaicSLAM/assets/60195170/3c62446c-3df5-4b8e-afc8-e3d30861ec2a)
