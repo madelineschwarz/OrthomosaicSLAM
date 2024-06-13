@@ -8,6 +8,9 @@ Successfully mosaics images from the same camera
 QUAKES-I 8 camera array (nadir port of aircraft)
 ![image](https://github.com/madelineschwarz/OrthomosaicSLAM/assets/60195170/3c62446c-3df5-4b8e-afc8-e3d30861ec2a)
 
+Individual images from Camera 68 (4)
+![image](https://github.com/madelineschwarz/OrthomosaicSLAM/assets/60195170/a5bfd5e9-ed27-424f-8c60-544ca473525d)
+
 Mosaic from Camera 68 (4)
 ![image](https://github.com/madelineschwarz/OrthomosaicSLAM/assets/60195170/c2ffc0dd-592c-4248-b356-f9f428492be5)
 
